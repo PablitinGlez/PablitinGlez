@@ -32,7 +32,7 @@
 
 
 -----
-## GitHub Stats
+<h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2> 
 
 <img src="https://github-readme-stats.vercel.app/api?username=PablitinGlez&show_icons=true&count_private=true&theme=dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=PablitinGlez&theme=dark"/>
 |---|---|
