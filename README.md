@@ -3,7 +3,7 @@
 # ¡Hola! Soy Juan Pablo 👋
 
 ## Sobre mí
-Soy un desarrollador apasionado por el diseño y desarrollo web 
+Soy un desarrollador apasionado por desarrollo web y diseño  
 
 ## Tecnologías
 - ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) **HTML**
