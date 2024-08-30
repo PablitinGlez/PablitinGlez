@@ -6,7 +6,7 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
-<div style="border: 2px solid blue; background-color: #e0f0ff; padding: 10px; border-radius: 8px;">
+
   <p>
     - **💻 Software Development Student**: Focused on web technologies.<br>
     - **🎨 Web Design Enthusiast**: Passionate about user-friendly designs.<br>
@@ -14,7 +14,7 @@
     - **🔍 Continuous Learning**: Always researching new tools and trends.<br>
     - **🚀 Technology-Driven**: Excited by tech's potential to solve problems.
   </p>
-</div>
+
 
 
 <br>
@@ -38,4 +38,5 @@
 |---|---|
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PablitinGlez&layout=compact&theme=dark"/>|
 
-
+<br><br>
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
