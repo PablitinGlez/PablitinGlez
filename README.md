@@ -20,11 +20,10 @@
 <br>
 
 <!-- Nothing weird to see here -->
+<h3 align="center">Currently Playing</h3>
+
 <p align="center">
-  <a href="https://andyruwruw.vercel.app/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://andyruwruw.vercel.app/api/now-playing">
-  </a>
+  <iframe src="https://open.spotify.com/embed/track/7I2cL5f3y5xQ2dN2w8z1gT" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </p>
 
 
