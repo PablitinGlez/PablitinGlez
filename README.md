@@ -13,7 +13,7 @@ Soy un desarrollador apasionado por el diseño y desarrollo web
 
 
 ## Contáctame
-- **Correo:** [gonzalez0421200@gmail.com(mailto:gonzalez0421200@gmail.com)
+- **Correo:** gonzalez0421200@gmail.com(mailto:gonzalez0421200@gmail.com)
 
 <!--
 **PablitinGlez/PablitinGlez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
