@@ -34,9 +34,9 @@
 -----
 <h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2> 
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PablitinGlez&show_icons=true&count_private=true&theme=dark) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=PablitinGlez&theme=dark) |
-|:---:|:---:|
-| **Top Languages** <br> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PablitinGlez&layout=compact&theme=dark) |
+<img src="https://github-readme-stats.vercel.app/api?username=PablitinGlez&show_icons=true&count_private=true&theme=dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=PablitinGlez&theme=dark"/>
+|---|---|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PablitinGlez&layout=compact&theme=dark"/>|
 
 <br><br>
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
