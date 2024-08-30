@@ -6,16 +6,11 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
-
-- 💻 **Software Development Student**: Currently studying software development with a strong focus on web technologies.
-- 🎨 **Web Design Enthusiast**: Passionate about creating visually appealing and user-friendly designs.
-- 🌐 **Full-Stack Explorer**: I enjoy working in both front-end and back-end development, always wanting to expand my knowledge.
-- 🔍 **I Research and Learn**: Investigo y aprendo constantemente nuevas herramientas, frameworks, y tendencias en el mundo tecnológico.
-- 🚀 **Tech-Driven**: Excited by the ever-evolving landscape of technology and its potential to solve real-world problems.
-
-
-
-
+- **💻 Software Development Student**: Currently studying software development with a strong focus on web technologies.
+- **🎨 Web Design Enthusiast**: Passionate about creating visually appealing and user-friendly designs.
+- **🌐 Full-Stack Explorer**: I enjoy working in both front-end and back-end development, always seeking to expand my knowledge.
+- **🔍 Continuous Learning**: I am constantly researching and learning new tools, frameworks, and trends in the tech world.
+- **🚀 Technology-Driven**: Excited by the ever-evolving landscape of technology and its potential to solve real-world problems.
 
 
 <br>
