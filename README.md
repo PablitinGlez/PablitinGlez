@@ -36,7 +36,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=PablitinGlez&show_icons=true&count_private=true&theme=dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=PablitinGlez&theme=dark"/>
 |---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PablitinGlez&layout=compact&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PablitinGlez&layout=compact&theme=dark"/>|
 
-<br>
 
