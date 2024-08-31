@@ -176,12 +176,9 @@
 <br><br>
 
 <p style="display: flex; justify-content: space-between; align-items: center; margin: 0;">
-  <span style="display: flex; align-items: center;">
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" alt="Icono animado">
-    <strong style="margin-left: 5px;">Connect with me</strong>
-  </span>
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
   <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJPablinhoigl&screen_name=JPablinhoigl">
-    <img src="https://img.shields.io/twitter/follow/JPablinhoigl?color=1DA1F2&logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+    <img align="right" src="https://img.shields.io/twitter/follow/JPablinhoigl?color=1DA1F2&logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
 
