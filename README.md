@@ -156,6 +156,8 @@
 -----
 <h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2> 
 
+<br><br>
+
 <table align="center">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=PablitinGlez&show_icons=true&count_private=true&theme=dark"></td>
@@ -165,6 +167,8 @@
     <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PablitinGlez&layout=compact&theme=dark"/></td>
   </tr>
 </table>
+
+<br><br>
 
 
 
