@@ -16,16 +16,24 @@
 
 
 
-<hr>
-
+<table align="center">
+<tr>
+<td width="50%" align="left">
+  
 - **💻 Software Development Student**: Focused on web technologies.
 - **🎨 Web Design Enthusiast**: Passionate about user-friendly designs.
 - **🌐 Full-Stack Explorer**: Enjoys both front-end and back-end development.
 - **🔍 Continuous Learning**: Always researching new tools and trends.
 - **🚀 Technology-Driven**: Excited by tech's potential to solve problems.
 
-<hr>
+</td>
+<td width="50%" align="center">
 
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+</td>
+</tr>
+</table>
 
 
 
