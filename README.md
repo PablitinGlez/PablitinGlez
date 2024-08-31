@@ -178,7 +178,7 @@
 
 
 <h3 align="center">Connect with Me</h3> 
-[![Twitter Follow](https://img.shields.io/twitter/follow/JPablinhoigl?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJPablinhoigl&screen_name=JPablinhoigl)
+
 
 
 <p align="center">
