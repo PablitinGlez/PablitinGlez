@@ -8,12 +8,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+and+Welcome..&hearts;++;Software+Development+Student,;Web+Design+Enthusiast,;Web+Development+Lover,;Exploring+Backend+and+Frontend,;Always+Learning+New+Things..<3"></a>
 </p>
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" style="margin-right: 15px;" />
 
 <hr>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
-
 
   - **💻 Software Development Student**: Focused on web technologies.<br>
   - **🎨 Web Design Enthusiast**: Passionate about user-friendly designs.<br>
@@ -21,8 +20,8 @@
   - **🔍 Continuous Learning**: Always researching new tools and trends.<br>
   - **🚀 Technology-Driven**: Excited by tech's potential to solve problems.
 
-
 <hr>
+
 
 
 
