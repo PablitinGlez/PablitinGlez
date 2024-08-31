@@ -133,29 +133,24 @@
   </tr>
    <tr>
       <td align="center" width="96">
-      <a href="#ubuntu" >
-        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
+      <a href="#debian" >
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Debian-Dark.svg" width="48" height="48" alt="debian" />
       </a>
-      <br>Ubuntu
+      <br>Debian
     </td>
       <td align="center"  width="96">
       <a href="#vscode">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="vsCode" />
       </a>
       <br>VS Code
     </td>
       <td align="center" width="96">
-      <a href="#postman" >
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Git" />
+      <a href="#Windows" >
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" width="48" height="48" alt="Windows" />
       </a>
-      <br>Postman
+      <br>Windows
     </td>
-      <td align="center" width="96">
-      <a href="#vuepress" >
-        <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>VuePress
-    </td>
+     
   </tr>
 </table>
 
