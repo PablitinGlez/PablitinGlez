@@ -177,9 +177,12 @@
 
 
 
-<h3 align="center">Connect with Me</h3> 
-
-
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h3>Connect with Me</h3>
+  <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJPablinhoigl&screen_name=JPablinhoigl">
+    <img src="https://img.shields.io/twitter/follow/JPablinhoigl?color=1DA1F2&logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+</div>
 
 <p align="center">
   <a href="https://twitter.com/DataOnATangent"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
@@ -190,6 +193,7 @@
   <a href="https://www.facebook.com/YourFacebookUsername"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
   <a href="mailto:dataonatangent@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
+
 <br><br><br>
 
 <p align="center">
