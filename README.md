@@ -68,7 +68,7 @@
     </td>
      <td align="center" width="96">
       <a href="#bootstrap">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
@@ -94,10 +94,10 @@
 
   <tr>
      <td align="center" width="96">
-      <a href="#nuxtjs" >
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
+      <a href="#eclipse" >
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Eclipse-Dark.svg" width="48" height="48" alt="PHP" />
       </a>
-      <br>PHP
+      <br>Eclipse
     </td>
       <td align="center" width="96">
       <a href="#laravel">
