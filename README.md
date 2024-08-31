@@ -56,7 +56,7 @@
   <tr>
       <td align="center" width="96">
       <a href="#html5">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="48" height="48" alt="Html5" />
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="48" height="48" alt="Html5" />
       </a>
       <br>Html5
     </td>
@@ -79,10 +79,10 @@
       <br>Javascript
     </td>
      <td align="center" width="96">
-      <a href="#vuejs">
-        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
+      <a href="#java">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="48" height="48" alt="java" />
       </a>
-      <br>Vue JS
+      <br>Java
     </td>
      <td align="center" width="96">
       <a href="#suhailkakar-tech">
