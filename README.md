@@ -27,7 +27,7 @@
 - **🚀 Technology-Driven**: Excited by tech's potential to solve problems.
 
 </td>
-<td width="40%" align="center">
+<td width="20%" align="center">
 
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
