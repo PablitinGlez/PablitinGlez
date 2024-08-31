@@ -140,10 +140,10 @@
       <br>Ubuntu
     </td>
      <td align="center" width="96">
-      <a href="#digitalocean">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" width="48" height="48" alt="Digital Ocean" />
+      <a href="#GitHub">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="48" height="48" alt="Digital Ocean" />
       </a>
-      <br>Digital Ocean
+      <br>GitHub
     </td>
       <td align="center" width="96">
       <a href="#git" >
