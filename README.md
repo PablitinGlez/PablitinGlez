@@ -19,7 +19,6 @@
   - **🚀 Technology-Driven**: Excited by tech's potential to solve problems.
 </pre>
 
-<hr>
 
 
 
