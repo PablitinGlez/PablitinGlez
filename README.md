@@ -85,10 +85,10 @@
       <br>Java
     </td>
      <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="48" height="48" alt="Nuxtjs" />
+      <a href="#figma">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" width="48" height="48" alt="figma" />
       </a>
-      <br>Nuxt JS
+      <br>figma
     </td>
   </tr>
 
