@@ -22,7 +22,7 @@
   
 - **💻 Software Development Student**: Focused on web technologies.
 - **🎨 Web Design Enthusiast**: Passionate about user-friendly designs.
-- **🌐 Full-Stack Explorer**: Enjoys both front-end and back-end development.
+- **🌐 Full-Stack Explorer**:  I enjoy front-end development so much.
 - **🔍 Continuous Learning**: Always researching new tools and trends.
 - **🚀 Technology-Driven**: Excited by tech's potential to solve problems.
 
