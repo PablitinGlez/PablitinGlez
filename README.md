@@ -180,7 +180,7 @@
 <p style="display: flex; justify-content: space-between; align-items: center; margin: 0;">
   <span>Connect with Me</span>
   <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJPablinhoigl&screen_name=JPablinhoigl">
-    <img src="https://img.shields.io/twitter/follow/JPablinhoigl?color=1DA1F2&logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+    <img align="right" src="https://img.shields.io/twitter/follow/JPablinhoigl?color=1DA1F2&logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
 
