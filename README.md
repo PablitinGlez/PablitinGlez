@@ -112,11 +112,11 @@
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-        <a href="#alpinejs">
-            <img src="https://seeklogo.com/images/A/alpine-js-logo-21F4169EAB-seeklogo.com.png" width="48"
+        <a href="#Photoshop">
+            <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" width="48"
                 height="48" alt="alpinejs" />
         </a>
-        <br>Alpine JS
+        <br>Photoshop
     </td>
        <td align="center" width="96">
       <a href="#GitHub">
