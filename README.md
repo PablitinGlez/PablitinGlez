@@ -18,7 +18,7 @@
 
 <table align="center">
 <tr>
-<td width="50%" align="left">
+<td width="80%" align="left">
   
 - **💻 Software Development Student**: Focused on web technologies.
 - **🎨 Web Design Enthusiast**: Passionate about user-friendly designs.
