@@ -156,9 +156,16 @@
 -----
 <h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2> 
 
-<img src="https://github-readme-stats.vercel.app/api?username=PablitinGlez&show_icons=true&count_private=true&theme=dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=PablitinGlez&theme=dark"/>
-|---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PablitinGlez&layout=compact&theme=dark"/>|
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=PablitinGlez&show_icons=true&count_private=true&theme=dark"></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=PablitinGlez&theme=dark"/></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PablitinGlez&layout=compact&theme=dark"/></td>
+  </tr>
+</table>
+
 
 
 <h3 align="center">Connect with Me</h3> 
