@@ -29,7 +29,7 @@
 </td>
 <td width="20%" align="center">
 
-  <img align="center" alt="Coding" width="220" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif">
+  <img align="center" alt="Coding" width="150" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif">
 
 </td>
 </tr>
