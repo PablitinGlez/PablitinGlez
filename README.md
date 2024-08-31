@@ -11,13 +11,13 @@
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
 
-<pre>
+
   - **💻 Software Development Student**: Focused on web technologies.
   - **🎨 Web Design Enthusiast**: Passionate about user-friendly designs.
   - **🌐 Full-Stack Explorer**: Enjoys both front-end and back-end development.
   - **🔍 Continuous Learning**: Always researching new tools and trends.
   - **🚀 Technology-Driven**: Excited by tech's potential to solve problems.
-</pre>
+
 
 
 
