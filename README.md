@@ -178,11 +178,12 @@
 
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <h3>Connect with Me</h3>
+  <h3 style="margin: 0;">Connect with Me</h3>
   <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJPablinhoigl&screen_name=JPablinhoigl">
     <img src="https://img.shields.io/twitter/follow/JPablinhoigl?color=1DA1F2&logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </div>
+<br>
 
 <p align="center">
   <a href="https://twitter.com/DataOnATangent"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
