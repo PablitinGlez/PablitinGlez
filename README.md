@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github.com/PablitinGlez/PabloGlezz/blob/main/assets/fondo%20git.png?raw=true" 
+  <img src="https://github.com/PablitinGlez/PabloGonzalez/blob/main/fondo%20git.png" 
        alt="Banner de Bienvenida" width="100%" height="400">
 </div>
 
