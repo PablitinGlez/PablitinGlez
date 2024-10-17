@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://i.imgur.com/ejemplo.jpg" alt="Banner de Bienvenida" width="100%" height="250">
+  <img src="https://github.com/PablitinGlez/PabloGonzalez/blob/main/fondo%20git.png" alt="Banner de Bienvenida" width="100%" height="250">
 </div>
 
 <p align="center">
