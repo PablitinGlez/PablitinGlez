@@ -6,7 +6,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/PablitinGlez/PabloGonzalez/main/fondo%20git.png" 
      alt="Banner de Bienvenida" width="100%" height="550">
-
 </div>
 
 <p align="center">
