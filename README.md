@@ -190,7 +190,7 @@
 <table align="center">
   <tr>
     <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=PablitinGlez&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="PablitinGlez" /></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PablitinGlez&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="PablitinGlez Streak Stats" /></td>
+    <td><img align="center" src="https://streak-stats.demolab.com/?user=PablitinGlez&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="PablitinGlez Streak Stats" /></td>
   </tr>
   <tr>
     <td colspan="2" align="center">
