@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/PablitinGlez/PabloGonzalez/blob/main/fondo%20git.png" 
+<img src="https://github.com/PablitinGlez/PabloGonzalez/blob/main/baner_welcome.png" 
      alt="Banner de Bienvenida" width="100%" height="550">
 </div>
 
