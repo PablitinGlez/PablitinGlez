@@ -221,8 +221,8 @@
 
 <br><br><br>
 
-<a href="https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH" target="_blank">
-  <img src="https://novatorem.bgstatic.vercel.app/api/spotify?user=PablitinGlez&track=5wANPM4fQCJwkGd4rN57mH" alt="Spotify Song" />
+<<a href="https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH?si=c2b5e6b9fb254f1d" target="_blank">
+  <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Escuchar en Spotify">
 </a>
 
 
