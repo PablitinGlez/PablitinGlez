@@ -178,13 +178,13 @@
 <table align="center">
   <tr>
     <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=PablitinGlez&show_icons=true&theme=dark&locale=en" alt="PablitinGlez" />
-
-
-</td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=PablitinGlez&theme=dark"/></td>
+    </td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=PablitinGlez&theme=dark" alt="PablitinGlez Streak Stats"/></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PablitinGlez&layout=compact&theme=dark"/></td>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PablitinGlez&layout=compact&theme=dark" alt="PablitinGlez Top Languages"/>
+    </td>
   </tr>
 </table>
 
