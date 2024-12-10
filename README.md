@@ -3,7 +3,7 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
 </h1>
 
-<div style="text-align: right; margin-bottom: 20px;">
+<div align="right"; margin-bottom: 20px;">
   <a href="https://github.com/PablitinGlez">
     <img src="https://img.shields.io/github/followers/PablitinGlez?label=follow&style=social" alt="GitHub: PablitinGlez"/>
   </a>
