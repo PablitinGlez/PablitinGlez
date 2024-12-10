@@ -27,7 +27,9 @@
 
 
 <div align="center">
-  [![](https://visitcount.itsvg.in/api?id=PablitinGlez&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=PablitinGlez&label=Profile%20Views&color=1&pretty=false" alt="Profile Views"/>
+  </a>
 </div>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
