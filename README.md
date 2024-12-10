@@ -28,21 +28,11 @@
 <tr>
 <td width="80%" align="left">
   
-<p align="center" style="margin-bottom: 10px;">
-  💻 Software Development Student: Focused on web technologies.
-</p>
-<p align="center" style="margin-bottom: 10px;">
-  🎨 Web Design Enthusiast: Passionate about user-friendly designs.
-</p>
-<p align="center" style="margin-bottom: 10px;">
-  🌐 Full-Stack Explorer: I enjoy front-end development so much.
-</p>
-<p align="center" style="margin-bottom: 10px;">
-  🔍 Continuous Learning: Always researching new tools and trends.
-</p>
-<p align="center" style="margin-bottom: 10px;">
-  🚀 Technology-Driven: Excited by tech's potential to solve problems.
-</p>
+  <p style="margin-bottom: 10px;">💻 Software Development Student: Focused on web technologies.</p>
+  <p style="margin-bottom: 10px;">🎨 Web Design Enthusiast: Passionate about user-friendly designs.</p>
+  <p style="margin-bottom: 10px;">🌐 Full-Stack Explorer: I enjoy front-end development so much.</p>
+  <p style="margin-bottom: 10px;">🔍 Continuous Learning: Always researching new tools and trends.</p>
+  <p style="margin-bottom: 10px;">🚀 Technology-Driven: Excited by tech's potential to solve problems.</p>
 
 </td>
 <td width="20%" align="center">
