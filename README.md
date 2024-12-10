@@ -71,111 +71,26 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
 <br>
 
+<!-- Languages and Tools Section -->
 
-<table align="center">
-  <tr>
-      <td align="center" width="96">
-      <a href="#html5">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="48" height="48" alt="Html5" />
-      </a>
-      <br>Html5
-    </td>
-    <td align="center" width="96">
-      <a href="#css3">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
-      </a>
-      <br>CSS3
-    </td>
-     <td align="center" width="96">
-      <a href="#bootstrap">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-     <td align="center" width="96">
-      <a href="#js">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
-      </a>
-      <br>Javascript
-    </td>
-     <td align="center" width="96">
-      <a href="#java">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="48" height="48" alt="java" />
-      </a>
-      <br>Java
-    </td>
-     <td align="center" width="96">
-      <a href="#figma">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" width="48" height="48" alt="figma" />
-      </a>
-      <br>figma
-    </td>
-  </tr>
-
-  <tr>
-     <td align="center" width="96">
-      <a href="#eclipse" >
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Eclipse-Dark.svg" width="48" height="48" alt="PHP" />
-      </a>
-      <br>Eclipse
-    </td>
-      <td align="center" width="96">
-      <a href="#Illustrator">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Illustrator.svg" width="48" height="48" alt="Illustrator" />
-      </a>
-      <br>Illustrator
-    </td>
-      <td align="center" width="96">
-      <a href="#PostgreSQL">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="48" height="48" alt="PostgreSQL" />
-      </a>
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-        <a href="#Photoshop">
-            <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" width="48"
-                height="48" alt="alpinejs" />
-        </a>
-        <br>Photoshop
-    </td>
-       <td align="center" width="96">
-      <a href="#GitHub">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="48" height="48" alt="Digital Ocean" />
-      </a>
-      <br>GitHub
-    </td>
-      <td align="center" width="96">
-      <a href="#git" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-  </tr>
-   <tr>
-      <td align="center" width="96">
-      <a href="#debian" >
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Debian-Dark.svg" width="48" height="48" alt="debian" />
-      </a>
-      <br>Debian
-    </td>
-      <td align="center"  width="96">
-      <a href="#vscode">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="vsCode" />
-      </a>
-      <br>VS Code
-    </td>
-      <td align="center" width="96">
-      <a href="#Windows" >
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" width="48" height="48" alt="Windows" />
-      </a>
-      <br>Windows
-    </td>
-     
-  </tr>
-</table>
-
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="48" height="48" alt="HTML" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="CSS" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" width="48" height="48" alt="Bootstrap" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="48" height="48" alt="React" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="48" height="48" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="48" height="48" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" width="48" height="48" alt="Postman" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="48" height="48" alt="Java" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Eclipse-Dark.svg" width="48" height="48" alt="Eclipse" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="48" height="48" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="48" height="48" alt="GitHub" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Debian-Dark.svg" width="48" height="48" alt="Debian" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="VS Code" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" width="48" height="48" alt="Windows" />
+</p>
 
 
 -----
