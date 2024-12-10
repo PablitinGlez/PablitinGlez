@@ -224,8 +224,11 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/314qbwubl7uauyp3cyo6umxp5x7m)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/intl-es/track/5wANPM4fQCJwkGd4rN57mH)
+
 ---
+
+<iframe src="https://open.spotify.com/embed/track/5wANPM4fQCJwkGd4rN57mH" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
 
