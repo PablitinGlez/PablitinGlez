@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/PablitinGlez/PabloGonzalez/blob/main/baner_welcome.png" 
+<img src="https://github.com/PablitinGlez/PabloGonzalez/blob/main/banner-bienvenida.png" 
      alt="Banner de Bienvenida" width="100%" height="480">
 </div>
 
