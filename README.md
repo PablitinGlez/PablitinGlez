@@ -127,7 +127,8 @@
     <td>
       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" width="48" height="48" alt="Windows" />
     </td>
-    <td></td>
+    <td><img src="https://skillicons.dev/icons?i=astro" width="48" height="48" alt="Astro" />
+</td>
     <td></td>
   </tr>
 </table>
