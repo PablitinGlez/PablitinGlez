@@ -14,7 +14,7 @@
 
 <div align="center">
 <img src="https://github.com/PablitinGlez/PabloGonzalez/blob/main/baner_welcome.png" 
-     alt="Banner de Bienvenida" width="100%" height="400">
+     alt="Banner de Bienvenida" width="100%" height="500">
 </div>
 
 <p align="center">
