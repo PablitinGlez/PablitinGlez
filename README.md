@@ -3,9 +3,12 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
 </h1>
 
-<a href="https://github.com/PablitinGlez">
-    <img src="https://img.shields.io/github/followers/PablitinGlez?label=follow&style=social" alt="GitHub: PablitinGlez" style="display: block; margin-bottom: 20px; margin-right: auto; margin-right: 0;"/>
-</a>
+<div style="text-align: right; margin-bottom: 20px;">
+  <a href="https://github.com/PablitinGlez">
+    <img src="https://img.shields.io/github/followers/PablitinGlez?label=follow&style=social" alt="GitHub: PablitinGlez"/>
+  </a>
+</div>
+
 <div align="center">
 <img src="https://github.com/PablitinGlez/PabloGonzalez/blob/main/fondo%20git.png" 
      alt="Banner de Bienvenida" width="100%" height="550">
