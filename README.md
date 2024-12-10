@@ -22,10 +22,9 @@
 </p>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PablitinGlez&label=Profile%20views&color=0e75b6&style=flat" alt="PablitinGlez" />
-</p>
-
+<div align="center">
+  [![](https://visitcount.itsvg.in/api?id=PablitinGlez&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+</div>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
