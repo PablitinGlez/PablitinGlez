@@ -4,9 +4,8 @@
 </h1>
 
 <a href="https://github.com/PablitinGlez">
-    <img src="https://img.shields.io/github/followers/PablitinGlez?label=follow&style=social" alt="GitHub: PablitinGlez" align="right" style="margin-bottom: 20px;"/>
+    <img src="https://img.shields.io/github/followers/PablitinGlez?label=follow&style=social" alt="GitHub: PablitinGlez" style="display: block; margin-bottom: 20px; margin-left: auto; margin-right: 0;"/>
 </a>
-
 <div align="center">
 <img src="https://github.com/PablitinGlez/PabloGonzalez/blob/main/fondo%20git.png" 
      alt="Banner de Bienvenida" width="100%" height="550">
