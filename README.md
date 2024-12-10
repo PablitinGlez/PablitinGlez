@@ -129,8 +129,32 @@
     </td>
     <td><img src="https://skillicons.dev/icons?i=astro" width="48" height="48" alt="Astro" />
 </td>
-    <td></td>
+    <td><img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
+</td>
   </tr>
+ <tr>
+    <td>
+       <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
+    </td>
+    <td>
+     <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" />
+    </td>
+    <td>
+     <img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender" />
+    </td>
+    <td>
+    <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="NPM" />
+
+</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+
+</td>
+  </tr>
+  
 </table>
 
 
