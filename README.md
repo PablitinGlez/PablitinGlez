@@ -226,7 +226,6 @@
 
 
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/intl-es/track/5wANPM4fQCJwkGd4rN57mH)
 
 
 
