@@ -134,7 +134,7 @@
   </tr>
  <tr>
     <td>
-       <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
+       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
     </td>
     <td>
      <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" />
