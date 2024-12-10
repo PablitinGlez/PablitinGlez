@@ -4,7 +4,7 @@
 </h1>
 
 <a href="https://github.com/PablitinGlez">
-    <img src="https://img.shields.io/github/followers/PablitinGlez?label=follow&style=social" alt="GitHub: PablitinGlez" align="right"/>
+    <img src="https://img.shields.io/github/followers/PablitinGlez?label=follow&style=social" alt="GitHub: PablitinGlez" align="right" style="margin-bottom: 20px;"/>
 </a>
 
 <div align="center">
